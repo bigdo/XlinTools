@@ -1,0 +1,3 @@
+[submodule "XlinDisk"]
+	path = XlinDisk
+	url = git@github.com:bigdo/XlinDisk.git
